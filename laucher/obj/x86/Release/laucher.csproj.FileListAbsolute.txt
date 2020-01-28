@@ -1,0 +1,12 @@
+c:\users\isaacpva45\documents\visual studio 2015\Projects\laucher\laucher\bin\x86\Release\laucher.exe.config
+c:\users\isaacpva45\documents\visual studio 2015\Projects\laucher\laucher\obj\x86\Release\laucher.csprojResolveAssemblyReference.cache
+c:\users\isaacpva45\documents\visual studio 2015\Projects\laucher\laucher\obj\x86\Release\laucher.Form1.resources
+c:\users\isaacpva45\documents\visual studio 2015\Projects\laucher\laucher\obj\x86\Release\laucher.Properties.Resources.resources
+c:\users\isaacpva45\documents\visual studio 2015\Projects\laucher\laucher\obj\x86\Release\laucher.csproj.GenerateResource.Cache
+c:\users\isaacpva45\documents\visual studio 2015\Projects\laucher\laucher\bin\x86\Release\laucher.exe
+c:\users\isaacpva45\documents\visual studio 2015\Projects\laucher\laucher\bin\x86\Release\laucher.pdb
+c:\users\isaacpva45\documents\visual studio 2015\Projects\laucher\laucher\obj\x86\Release\laucher.exe
+c:\users\isaacpva45\documents\visual studio 2015\Projects\laucher\laucher\obj\x86\Release\laucher.pdb
+C:\Users\SERVER2\Documents\Visual Studio 2015\Projects\laucher\laucher\bin\x86\Release\laucher.exe.config
+C:\Users\SERVER2\Documents\Visual Studio 2015\Projects\laucher\laucher\obj\x86\Release\laucher.exe
+C:\Users\SERVER2\Documents\Visual Studio 2015\Projects\laucher\laucher\obj\x86\Release\laucher.pdb

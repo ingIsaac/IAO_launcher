@@ -144,7 +144,7 @@ namespace laucher
                 }
                 catch (Exception err)
                 {
-                    MessageBox.Show(this, "[Error] Cannot connect to the server.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show(this, "[Error] Cannot connect to the update server.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     lauchClient();
                     errorLog(err.ToString());
                 }

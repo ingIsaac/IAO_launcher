@@ -259,7 +259,7 @@ namespace laucher
             {
                 this.BeginInvoke((MethodInvoker)delegate
                 {
-                    label1.Text = "Downloaded: " +  Math.Round((e.BytesReceived / 1000000f), 2) + " MB";
+                    label1.Text = "Downloaded: " +  Math.Round((e.BytesReceived / 1000000f), 2) + " MB / " + Math.Round((e.TotalBytesToReceive / 1000000f), 2) + " MB";
                 });
             }
             catch (Exception err)

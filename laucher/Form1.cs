@@ -24,6 +24,8 @@ namespace laucher
         private Point dragCursorPoint;
         private Point dragFormPoint;
 
+        private Uri web_viewer { get; set; }
+
         public Form1()
         {
             InitializeComponent();
@@ -45,12 +47,32 @@ namespace laucher
             if (e.Url.AbsolutePath != (sender as WebBrowser).Url.AbsolutePath)
             return;
             webBrowser1.Visible = true;
+            button6.Visible = true;
+            button7.Visible = true;
         }
 
         private void loadNews()
         {
+            button6.Visible = false;
+            button7.Visible = false;
+            button6.BackgroundImage = Properties.Resources.Circle_icon;
+            button7.BackgroundImage = Properties.Resources.Circle_icon_gray;
+            //-------------------------------------------------------------->
+            web_viewer = new Uri("http://imperialageonline.servegame.com//client_n.php");
             webBrowser1.Visible = false;
-            webBrowser1.Url = new Uri("http://imperialageonline.servegame.com//client_n.php");
+            webBrowser1.Url = web_viewer;           
+        }
+
+        private void loadChangelog()
+        {
+            button6.Visible = false;
+            button7.Visible = false;
+            button7.BackgroundImage = Properties.Resources.Circle_icon;
+            button6.BackgroundImage = Properties.Resources.Circle_icon_gray;
+            //-------------------------------------------------------------->
+            web_viewer = new Uri("http://imperialageonline.servegame.com//client_c.php");
+            webBrowser1.Visible = false;
+            webBrowser1.Url = web_viewer;
         }
 
         private void Form1_MouseUp1(object sender, MouseEventArgs e)
@@ -398,13 +420,23 @@ namespace laucher
         {
             try
             {
-                System.Diagnostics.Process.Start("https://discord.gg/WWZpRc");
+                System.Diagnostics.Process.Start("https://discord.gg/bgxdQZA");
             }
             catch (Exception err)
             {
                 MessageBox.Show(this, "[Error] try again.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 errorLog(err.ToString());
             }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            loadNews();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            loadChangelog();
         }
     }
 }

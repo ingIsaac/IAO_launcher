@@ -106,7 +106,7 @@
             this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(355, 372);
+            this.button2.Location = new System.Drawing.Point(128, 372);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(192, 50);
             this.button2.TabIndex = 4;
@@ -170,10 +170,10 @@
             // 
             // webBrowser1
             // 
-            this.webBrowser1.Location = new System.Drawing.Point(16, 98);
+            this.webBrowser1.Location = new System.Drawing.Point(16, 95);
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
-            this.webBrowser1.Size = new System.Drawing.Size(531, 259);
+            this.webBrowser1.Size = new System.Drawing.Size(531, 268);
             this.webBrowser1.TabIndex = 10;
             // 
             // pictureBox3

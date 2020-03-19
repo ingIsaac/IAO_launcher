@@ -110,6 +110,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />
+    <None Include="Resources\imageedit_2_6177649354.png" />
+    <None Include="Resources\imageedit_1_4813777946.png" />
     <None Include="Resources\Circle-icon-gray.png" />
     <None Include="Resources\Circle-icon.png" />
     <None Include="Resources\discord.png" />

@@ -154,9 +154,6 @@
   <data name="black_texture_1205_327" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\black-texture_1205-327.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="warrior" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\warrior.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="warrior_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\warrior_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -171,5 +168,8 @@
   </data>
   <data name="Circle_icon_gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Circle-icon-gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imageedit_2_6177649354" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imageedit_2_6177649354.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

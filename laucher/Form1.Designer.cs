@@ -72,9 +72,9 @@
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Image = global::laucher.Properties.Resources.TEXT5;
-            this.pictureBox1.Location = new System.Drawing.Point(16, 41);
+            this.pictureBox1.Location = new System.Drawing.Point(16, 31);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(531, 50);
+            this.pictureBox1.Size = new System.Drawing.Size(531, 62);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
@@ -181,10 +181,10 @@
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox3.Image = global::laucher.Properties.Resources.warrior_2;
-            this.pictureBox3.Location = new System.Drawing.Point(460, -10);
+            this.pictureBox3.Image = global::laucher.Properties.Resources.imageedit_2_6177649354;
+            this.pictureBox3.Location = new System.Drawing.Point(326, -42);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(282, 455);
+            this.pictureBox3.Size = new System.Drawing.Size(523, 647);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 11;
             this.pictureBox3.TabStop = false;

@@ -139,9 +139,6 @@
   <data name="b_003" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\b_003.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="b_004" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\b_004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="loading_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\loading_2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -162,5 +159,11 @@
   </data>
   <data name="warrior_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\warrior_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="social_facebook_box_blue_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\social-facebook-box-blue-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

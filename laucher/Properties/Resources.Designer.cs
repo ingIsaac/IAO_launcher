@@ -83,16 +83,6 @@ namespace laucher.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap b_004 {
-            get {
-                object obj = ResourceManager.GetObject("b_004", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap black_texture_1205_327 {
             get {
                 object obj = ResourceManager.GetObject("black_texture_1205_327", resourceCulture);
@@ -123,6 +113,16 @@ namespace laucher.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap discord {
+            get {
+                object obj = ResourceManager.GetObject("discord", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap loading {
             get {
                 object obj = ResourceManager.GetObject("loading", resourceCulture);
@@ -146,6 +146,16 @@ namespace laucher.Properties {
         internal static System.Drawing.Bitmap progress_bar {
             get {
                 object obj = ResourceManager.GetObject("progress_bar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap social_facebook_box_blue_icon {
+            get {
+                object obj = ResourceManager.GetObject("social_facebook_box_blue_icon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

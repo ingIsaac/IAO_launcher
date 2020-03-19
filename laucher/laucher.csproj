@@ -110,6 +110,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />
+    <None Include="Resources\discord.png" />
+    <None Include="Resources\social-facebook-box-blue-icon.png" />
     <None Include="Resources\b_005.png" />
     <None Include="Resources\warrior_2.png" />
     <None Include="Resources\black-texture_1205-327.jpg" />

@@ -393,5 +393,18 @@ namespace laucher
                 errorLog(err.ToString());
             }
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                System.Diagnostics.Process.Start("https://discord.gg/WWZpRc");
+            }
+            catch (Exception err)
+            {
+                MessageBox.Show(this, "[Error] try again.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                errorLog(err.ToString());
+            }
+        }
     }
 }

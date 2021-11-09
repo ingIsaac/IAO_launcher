@@ -58,7 +58,7 @@ namespace laucher
             button6.BackgroundImage = Properties.Resources.Circle_icon;
             button7.BackgroundImage = Properties.Resources.Circle_icon_gray;
             //-------------------------------------------------------------->
-            web_viewer = new Uri("http://imperialageonline.servegame.com//client_n.php");
+            web_viewer = new Uri("https://imperialageonline.servegame.com//client_n.php");
             webBrowser1.Visible = false;
             webBrowser1.Url = web_viewer;           
         }
@@ -70,7 +70,7 @@ namespace laucher
             button7.BackgroundImage = Properties.Resources.Circle_icon;
             button6.BackgroundImage = Properties.Resources.Circle_icon_gray;
             //-------------------------------------------------------------->
-            web_viewer = new Uri("http://imperialageonline.servegame.com//client_c.php");
+            web_viewer = new Uri("https://imperialageonline.servegame.com//client_c.php");
             webBrowser1.Visible = false;
             webBrowser1.Url = web_viewer;
         }
@@ -151,7 +151,7 @@ namespace laucher
                 try
                 {
                     WebClient wc = new WebClient();
-                    string html = wc.DownloadString("http://imperialageonline.servegame.com/client_url.php");
+                    string html = wc.DownloadString("https://imperialageonline.servegame.com/client_url.php");
                     string[] s = html.Split(',');
                     if (s.Length == 2)
                     {
@@ -360,7 +360,7 @@ namespace laucher
         {
             try
             {
-                System.Diagnostics.Process.Start("http://imperialageonline.servegame.com");
+                System.Diagnostics.Process.Start("https://imperialageonline.servegame.com");
             }
             catch (Exception err)
             {

@@ -16,3 +16,12 @@ C:\Users\SERVER2\Documents\Visual Studio 2015\Projects\laucher\laucher\obj\x86\R
 C:\Users\SERVER2\Documents\Visual Studio 2015\Projects\laucher\laucher\obj\x86\Release\laucher.Form1.resources
 C:\Users\SERVER2\Documents\Visual Studio 2015\Projects\laucher\laucher\obj\x86\Release\laucher.Properties.Resources.resources
 C:\Users\SERVER2\Documents\Visual Studio 2015\Projects\laucher\laucher\obj\x86\Release\laucher.csproj.GenerateResource.Cache
+C:\Users\ESTUDIO\Documents\Visual Studio 2015\Projects\IAO_launcher\laucher\bin\x86\Release\laucher.exe.config
+C:\Users\ESTUDIO\Documents\Visual Studio 2015\Projects\IAO_launcher\laucher\obj\x86\Release\laucher.exe
+C:\Users\ESTUDIO\Documents\Visual Studio 2015\Projects\IAO_launcher\laucher\obj\x86\Release\laucher.pdb
+C:\Users\ESTUDIO\Documents\Visual Studio 2015\Projects\IAO_launcher\laucher\bin\x86\Release\laucher.exe
+C:\Users\ESTUDIO\Documents\Visual Studio 2015\Projects\IAO_launcher\laucher\bin\x86\Release\laucher.pdb
+C:\Users\ESTUDIO\Documents\Visual Studio 2015\Projects\IAO_launcher\laucher\obj\x86\Release\laucher.csprojResolveAssemblyReference.cache
+C:\Users\ESTUDIO\Documents\Visual Studio 2015\Projects\IAO_launcher\laucher\obj\x86\Release\laucher.Form1.resources
+C:\Users\ESTUDIO\Documents\Visual Studio 2015\Projects\IAO_launcher\laucher\obj\x86\Release\laucher.Properties.Resources.resources
+C:\Users\ESTUDIO\Documents\Visual Studio 2015\Projects\IAO_launcher\laucher\obj\x86\Release\laucher.csproj.GenerateResource.Cache
